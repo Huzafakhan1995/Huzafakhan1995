@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Huzaifa_Khan
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning SQL, Python, R
+- 💞️ I’m looking to collaborate on Data Engineering projects
+- 📫 You can reach me huzafakhan789@gmail.com
